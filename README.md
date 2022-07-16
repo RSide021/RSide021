@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RSide021
-- 👀 I’m interested in C#, C++
-- 🌱 I’m currently learning Java, JS, C#, C++
+- 👀 I’m interested in C#, C++, Kotlin, Python
+- 🌱 I’m currently learning Java, JS, C#, C++, Kotlin, Python
 - 💞️ I’m looking to collaborate on <SOON>
 - 📫 How to reach me <SOON>
 
